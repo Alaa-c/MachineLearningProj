@@ -1,5 +1,6 @@
 # Head Pose Estimation:
-        Simply, head pose estimation means detecting the position of a human in the image by detecting the  heads **Euler angles**; Pitch,yaw and roll,They define the object's rotation in 3D environment.
+  Simply, head pose estimation means detecting 
+the position of a human in the image by detecting the  heads **Euler angles**; Pitch,yaw and roll,They define the object's rotation in 3D environment.
         
 # Objective of the project:
    
@@ -7,7 +8,7 @@
 
 # Dataset Explanation:
 				
-        "AFLW2000" contains 2000 images of human faces with different rotations and poses.
+   "AFLW2000" contains 2000 images of human faces with different rotations and poses.
 
 # Libraries used:
     
